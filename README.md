@@ -25,7 +25,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/belly05.png)
+![hw](Images/belly5.png)
 
 6. Update all of the plots any time that a new sample is selected.
 
